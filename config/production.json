@@ -1,0 +1,5 @@
+{
+  "MongoURI" : "mongodb+srv://db_user:AydovtCi9HgTNhkn@maindb-nr4wg.mongodb.net/vacations?retryWrites=true&w=majority",
+  "jwtSecret": "R3XyOp"
+
+}
